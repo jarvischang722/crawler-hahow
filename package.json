@@ -1,0 +1,31 @@
+{
+  "name": "crawler-hahow",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "keywords": [
+    "crawler"
+  ],
+  "author": "Jarvis Chang",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "lodash": "^4.17.15",
+    "puppeteer": "^2.1.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5",
+    "xlsx": "^0.15.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jarvischang722/crawler-hahow.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jarvischang722/crawler-hahow/issues"
+  },
+  "homepage": "https://github.com/jarvischang722/crawler-hahow#readme",
+  "description": ""
+}
